@@ -1,0 +1,1 @@
+DDC{d1d_y0u_0p3n_4ll_th3_d0ll5_y0urs3lf_0r_d1d_y0u_kn0w: binwalk -e --matryoshka?}
