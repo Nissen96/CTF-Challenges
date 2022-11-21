@@ -1,2 +1,4 @@
-*.jpg	-text
-*.zip	-text
+* text eol=lf
+*.jpg binary
+*.ttf binary
+*.zip binary
