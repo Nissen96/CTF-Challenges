@@ -1,0 +1,14 @@
+Build and run the application locally with
+
+```bash
+docker build -t deardiary .
+docker run --rm -p 80:80 deardiary
+```
+
+Add the following line to your hosts file (`/etc/hosts on Linux`, `C:\Windows\System32\drivers\etc\hosts on Windows`):
+
+```
+127.0.0.1 dear-diary.hkn
+```
+
+Now navigate to http://dear-diary.hkn

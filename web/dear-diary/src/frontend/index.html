@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script type="module" src="/src/assets/jquery.min.1.7.js"></script>
+    <script type="module" src="/src/assets/turn.min.js"></script>
+    <title>Dear Diary</title>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
+<style>
+@font-face {
+  font-family: greatVibes;
+  src: url("/src/assets/great-vibes.regular.ttf");
+}
+
+@font-face {
+  font-family: quikhand;
+  src: url("/src/assets/quikhand.regular.ttf");
+}
+
+html, body {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: url("/src/assets/background.jpg") #FAFEFF;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: #f3a7ac;
+  font-family: quikhand, cursive;
+}
+
+h1 {
+  font-family: greatVibes, cursive;
+}
+
+h1, h2 {
+  color: #d3979c;
+}
+
+h2 {
+  font-size: 1em;
+}
+
+p {
+  font-size: 0.6em;
+  font-family: quikhand, cursive;
+}
+
+small {
+  font-size: 0.5em;
+}
+
+a {
+  cursor: pointer;
+  color: rgb(217, 120, 219);
+  text-decoration: underline;
+}
+
+button {
+  background-color: #e98fd5;
+  border: 3px solid #bc6990;
+  color: #b34786;
+  cursor: pointer;
+  padding: 0.3em 0.7em;
+  font-size: 0.6em;
+  font-family: quikhand;
+  border-radius: 50%;
+  margin: 1em auto 0.5em;
+}
+
+.error {
+  color: #da3636;
+}
+
+label {
+  font-size: 0.6em;
+}
+</style>
