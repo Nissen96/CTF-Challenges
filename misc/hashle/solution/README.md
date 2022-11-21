@@ -1,4 +1,4 @@
-# Hashle
+# Writeup
 
 Connecting to the server, we get access to a Wordle-inspired game called Hashle.
 
