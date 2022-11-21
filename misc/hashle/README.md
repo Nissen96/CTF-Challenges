@@ -11,3 +11,7 @@ Note: run the Dockerfile before connecting:
 docker build -t hashle .
 docker run --rm -p 1337:1337 hashle
 ```
+
+## Original (Danish)
+
+Jeg har lavet en password checker baseret på det populære spil Wordle. Tjek den ud på `nc 0.0.0.0 1337` og se, om du kan gætte mit password.

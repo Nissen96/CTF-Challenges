@@ -12,3 +12,10 @@ docker run --rm -p 5555:5555 chamberofsecrets
 ```
 
 Then connect with `nc 0.0.0.0 5555`
+
+
+## Original (Danish)
+
+Hemmelighedernessss kammer er åbnet igen, men hvisss du vil ind, ssssskal du forbi mig førssssst!
+
+`nc 0.0.0.0 5555`

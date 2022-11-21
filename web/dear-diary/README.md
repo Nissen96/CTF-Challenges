@@ -14,6 +14,22 @@ He's so mean, but I don't believe him at all - he's just jealous of my web skill
 
 Challenge source with local setup: [deardiary.zip](deardiary.zip)
 
+
+## Original (Danish)
+
+Kære Dagbog,
+
+Jens påstår, han har fundet en usikkerhed på min nye [dagbogshjemmeside](http://dear-diary.hkn).
+
+Han siger han har læst alle mine private sider! 😲
+
+Virkelig tarveligt, men jeg tror slet ikke på ham - han er bare misundelig på mine web skills 💻
+
+❤️ XOXO ❤️
+
+Challenge source med local setup: [deardiary.zip](deardiary.zip)
+
+
 ## Note
 
 To play this challenge as if it ran remotely, use the local Dockerfile:
