@@ -4,5 +4,5 @@
 *.ttf binary
 *.zip binary
 *.xlsm binary
-*.pcap
-*.pcapng
+*.pcap binary
+*.pcapng binary
