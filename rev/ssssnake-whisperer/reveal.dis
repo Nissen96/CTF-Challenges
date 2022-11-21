@@ -1,0 +1,116 @@
+  9:          0 LOAD_GLOBAL              0 (open)
+              2 LOAD_CONST               1 ('hidden.bin')
+              4 LOAD_CONST               2 ('rb')
+              6 CALL_FUNCTION            2
+              8 SETUP_WITH              12 (to 34)
+             10 STORE_FAST               0 (f)
+
+ 10:         12 LOAD_FAST                0 (f)
+             14 LOAD_METHOD              1 (read)
+             16 CALL_METHOD              0
+             18 STORE_FAST               1 (hidden)
+             20 POP_BLOCK
+
+  9:         22 LOAD_CONST               0 (None)
+             24 DUP_TOP
+             26 DUP_TOP
+             28 CALL_FUNCTION            3
+             30 POP_TOP
+             32 JUMP_FORWARD             8 (to 50)
+       >>>   34 WITH_EXCEPT_START
+             36 POP_JUMP_IF_TRUE        20 (to 40)
+             38 RERAISE                  1
+       >>>   40 POP_TOP
+             42 POP_TOP
+             44 POP_TOP
+             46 POP_EXCEPT
+             48 POP_TOP
+
+ 12:   >>>   50 LOAD_FAST                1 (hidden)
+             52 LOAD_CONST               3 (-15)
+             54 LOAD_CONST               4 (-5)
+             56 BUILD_SLICE              2
+             58 BINARY_SUBSCR
+             60 STORE_FAST               2 (flag)
+
+ 13:         62 LOAD_FAST                2 (flag)
+             64 LOAD_GLOBAL              2 (secret)
+             66 INPLACE_ADD
+             68 STORE_FAST               2 (flag)
+
+ 14:         70 LOAD_FAST                1 (hidden)
+             72 LOAD_CONST               5 (17)
+             74 LOAD_CONST               3 (-15)
+             76 BUILD_SLICE              2
+             78 BINARY_SUBSCR
+             80 GET_ITER
+       >>>   82 FOR_ITER                13 (to 110)
+             84 STORE_FAST               3 (c)
+
+ 15:         86 LOAD_FAST                2 (flag)
+             88 LOAD_GLOBAL              3 (bytes)
+             90 LOAD_FAST                3 (c)
+             92 LOAD_CONST               6 (1337)
+             94 BINARY_ADD
+             96 LOAD_CONST               7 (256)
+             98 BINARY_MODULO
+            100 BUILD_LIST               1
+            102 CALL_FUNCTION            1
+            104 INPLACE_ADD
+            106 STORE_FAST               2 (flag)
+            108 JUMP_ABSOLUTE           41 (to 82)
+
+ 17:   >>>  110 LOAD_FAST                2 (flag)
+            112 LOAD_GLOBAL              2 (secret)
+            114 LOAD_CONST               0 (None)
+            116 LOAD_CONST               0 (None)
+            118 LOAD_CONST               8 (-1)
+            120 BUILD_SLICE              3
+            122 BINARY_SUBSCR
+            124 INPLACE_ADD
+            126 STORE_FAST               2 (flag)
+
+ 18:        128 LOAD_FAST                2 (flag)
+            130 LOAD_GLOBAL              4 (int)
+            132 LOAD_FAST                1 (hidden)
+            134 LOAD_CONST               0 (None)
+            136 LOAD_CONST               5 (17)
+            138 BUILD_SLICE              2
+            140 BINARY_SUBSCR
+            142 CALL_FUNCTION            1
+            144 LOAD_METHOD              5 (to_bytes)
+            146 LOAD_CONST               9 (7)
+            148 LOAD_CONST              10 ('big')
+            150 CALL_METHOD              2
+            152 INPLACE_ADD
+            154 STORE_FAST               2 (flag)
+
+ 20:        156 LOAD_FAST                1 (hidden)
+            158 LOAD_CONST               4 (-5)
+            160 LOAD_CONST               0 (None)
+            162 BUILD_SLICE              2
+            164 BINARY_SUBSCR
+            166 GET_ITER
+       >>>  168 FOR_ITER                11 (to 192)
+            170 STORE_FAST               4 (n)
+
+ 21:        172 LOAD_FAST                2 (flag)
+            174 LOAD_GLOBAL              3 (bytes)
+            176 LOAD_FAST                4 (n)
+            178 LOAD_CONST              11 (100)
+            180 BINARY_XOR
+            182 BUILD_LIST               1
+            184 CALL_FUNCTION            1
+            186 INPLACE_ADD
+            188 STORE_FAST               2 (flag)
+            190 JUMP_ABSOLUTE           84 (to 168)
+
+ 23:   >>>  192 LOAD_FAST                2 (flag)
+            194 LOAD_CONST               0 (None)
+            196 LOAD_CONST               0 (None)
+            198 LOAD_CONST               8 (-1)
+            200 BUILD_SLICE              3
+            202 BINARY_SUBSCR
+            204 STORE_FAST               2 (flag)
+            206 LOAD_CONST               0 (None)
+            208 RETURN_VALUE
