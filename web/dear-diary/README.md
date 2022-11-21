@@ -1,6 +1,6 @@
 # Dear Diary
 
-## De Danske Cybermesterskaber - Regionals
+## De Danske Cybermesterskaber 2022 - Regionals
 
 Dear Diary,
 
