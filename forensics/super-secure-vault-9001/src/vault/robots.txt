@@ -1,0 +1,3 @@
+# Sørg for vores backupfiler ikke crawles!
+User-agent: *
+Disallow: /access.php.backup
