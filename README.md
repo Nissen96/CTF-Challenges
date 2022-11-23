@@ -27,12 +27,13 @@ A short description is provided in the readme on how to build and run the contai
 * [Weak Block Cipher](crypto/weak-block-cipher/) (crypto)
 * [Бабушка](stego/babushka/) (stego)
 * [Legendary Space Beats](stego/legendary-space-beats/) (stego)
-* [Hashle](misc/hashle/) (hashle)
+* [Hashle](misc/hashle/) (misc)
 
 #### Nationals
 
-* [Behind Enemy Lines: Key Intelligence](forensics/behind-enemy-lines/key_intelligence/) (forensics)
-* [Behind Enemy Lines: Power Trip](forensics/behind-enemy-lines/power_trip/) (forensics)
+* [Behind Enemy Lines](forensics/behind-enemy-lines/) (forensics)
+  * [Key Intelligence](forensics/behind-enemy-lines/key_intelligence/) (part 1)
+  * [Power Trip](forensics/behind-enemy-lines/power_trip/) (part 2)
 * [Chamber of Secretssss](rev/chamber-of-secretssss/) (rev)
 
 ### Other
