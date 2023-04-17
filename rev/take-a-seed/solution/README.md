@@ -61,7 +61,7 @@ To decrypt this, the same key and IV must be used, but the IV is not immediately
 
 The IV is, however, needed to decrypt the first block. The description hints quite a lot that the encryption was done during DDC regionals 2023, and so the seed and thus IV can be bruteforced.
 
-A [solve script](solve) has been provided, which does exactly this: iterates from the start time to the end time of the competition, generates the IV for this, and tries to decrypt the ciphertext, checking whether the result matches the flag format. This should be doable with any AES library like the most used one from here: https://github.com/kokke/tiny-AES-c/.
+A [solve script](solve.c) has been provided, which does exactly this: iterates from the start time to the end time of the competition, generates the IV for this, and tries to decrypt the ciphertext, checking whether the result matches the flag format. This should be doable with any AES library like the most used one from here: https://github.com/kokke/tiny-AES-c/.
 
 People less comfortable with C can avoid having to integrate with an AES library by just generating all the possible IVs, saving them to a file, and do the bruteforcing decryption in e.g. Python.
 
