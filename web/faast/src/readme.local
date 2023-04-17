@@ -1,0 +1,14 @@
+Build and run the application locally with
+
+```bash
+docker build -t faast .
+docker run --rm -p 8000:80 faast
+```
+
+Add the following line to your hosts file (`/etc/hosts on Linux`, `C:\Windows\System32\drivers\etc\hosts on Windows`):
+
+```
+127.0.0.1 faast.hkn
+```
+
+Now the API is available at http://faast.hkn:8000

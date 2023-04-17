@@ -1,0 +1,23 @@
+# VoresID
+
+## Mødenoter 13/04-2023
+
+### Nyt breach
+
+- Vi kan se i vores logs, at russerne har opdaget et sikkerhedshul i VoresID
+- Kan lække brugeres CPR nr. og fulde navn med en simpel username enumeration
+- Vi kendte til usikkerheden, men det er ikke blevet prioriteret
+- Umiddelbart er op mod 10% af VoresID brugeres information lækket
+- Russerne er informeret, de tilbyder store summer for, at vi holder hullet åbent
+- Er endnu ikke opdaget af offentligheden, så vi holder lige lav profil og overvejer tilbuddet
+
+- Hullet kan nemt lukkes ved at tilføje password til VoresID
+- Er som bekendt ikke en mulighed, USA har betalt store summer for, at det blev passwordless
+- Vi skal internt overveje vores historie udadtil, folk stiller fortsat spørgsmål til sikkerheden
+	- Hvordan bilder vi folk ind, at passwordless er sikkert uden at være det?
+
+- Fredde Metteriksen er naturligvis bekendt med aftalen med USA, men endnu ikke russernes angreb
+- Bliver svær at overtale til at modtage penge fra både USA og Rusland samtidig
+- Plejer at kunne betales for at holde mund, måske et krydstogt? Eller en Tesla?
+
+- Stadig meget at overveje, næste møde er 20/04-2023, samme tid og sted

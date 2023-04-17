@@ -12,6 +12,26 @@ A short description is provided in the readme on how to build and run the contai
 
 ## Challenge Overview
 
+### De Danske Cybermesterskaber 2023
+
+#### Qualifiers
+
+* [Forsker Jens](/rev/forsker-jens/) (rev)
+* [Exploração](/web/exploracao/) (web)
+
+#### Regionals
+
+* [Definitely](rev/definitely/) (rev)
+* [Take A Seed](rev/take-a-seed/) (rev)
+* [PNG Magi](forensics/png-magi/) (forensics)
+* [aCropalypse Now](forensics/acropalypse-now/) (forensics)
+* [Hostile Takeover](forensics/hostile-takeover/) (forensics)
+* [FaaSt](web/faast/) (web)
+
+#### Nationals
+
+Coming soon (TM)
+
 ### De Danske Cybermesterskaber 2022
 
 #### Qualifiers

