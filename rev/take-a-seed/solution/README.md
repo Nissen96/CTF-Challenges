@@ -57,7 +57,9 @@ print_hex(flag, total_len);
 return 0;
 ```
 
-To decrypt this, the same key and IV must be used, but the IV is not immediately known. The description hints quite a lot that the encryption was done during DDC regionals 2023, and so it can be bruteforced.
+To decrypt this, the same key and IV must be used, but the IV is not immediately known. For those unaware, in CBC mode, the IV is only needed to decrypt the first block, all remaining blocks only depend on previous ciphertext blocks. This means that most of the flag is possible to decrypt by using the found key and any random IV, resulting in 16 bytes of garbage followed by `f0r_AES-d1d_y0u_5ne4k_p34k_w17h_4_r4nd0m_1V?}` as a small easter egg.
+
+The IV is, however, needed to decrypt the first block. The description hints quite a lot that the encryption was done during DDC regionals 2023, and so the seed and thus IV can be bruteforced.
 
 A [solve script](solve) has been provided, which does exactly this: iterates from the start time to the end time of the competition, generates the IV for this, and tries to decrypt the ciphertext, checking whether the result matches the flag format. This should be doable with any AES library like the most used one from here: https://github.com/kokke/tiny-AES-c/.
 
