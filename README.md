@@ -32,6 +32,10 @@ A short description is provided in the readme on how to build and run the contai
 
 Coming soon (TM)
 
+#### Bootcamp
+
+* [Telemax](forensics/telemax) (forensics / osint)
+
 ### De Danske Cybermesterskaber 2022
 
 #### Qualifiers

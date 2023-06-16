@@ -1,0 +1,246 @@
+*** Chrome ***
+URL : .youtube.com
+Name: APISID
+Cook: ZYx81FHgBKIFnrec/AD6JfU4DpheZKGA3J
+
+URL : .youtube.com
+Name: HSID
+Cook: AgqXHl5EbUYl6A9hI
+
+URL : .youtube.com
+Name: SAPISID
+Cook: _eAQu0rFs6aAgslY/AnfHCvM_OBseH2Sfg
+
+URL : .youtube.com
+Name: SID
+Cook: XQhTWCJiEcCEjfAug72XojBQIabKlNiFN_Ho29M0tqOVrwdMqejtcCecgcaTS5Jq18lP8g.
+
+URL : .youtube.com
+Name: SSID
+Cook: A9W3ajfYTiS__rtCz
+
+URL : .youtube.com
+Name: __Secure-1PAPISID
+Cook: _eAQu0rFs6aAgslY/AnfHCvM_OBseH2Sfg
+
+URL : .youtube.com
+Name: __Secure-1PSID
+Cook: XQhTWCJiEcCEjfAug72XojBQIabKlNiFN_Ho29M0tqOVrwdMJe5w5Jh0qwSSLdxKEoAG6Q.
+
+URL : .youtube.com
+Name: __Secure-3PAPISID
+Cook: _eAQu0rFs6aAgslY/AnfHCvM_OBseH2Sfg
+
+URL : .youtube.com
+Name: __Secure-3PSID
+Cook: XQhTWCJiEcCEjfAug72XojBQIabKlNiFN_Ho29M0tqOVrwdM6jvD371UHc63miY5b8nmmg.
+
+URL : www.hackthebox.com
+Name: XSRF-TOKEN
+Cook: eyJpdiI6Imt2RUVjRXhWbEZGUVJQU3FoMzlhcmc9PSIsInZhbHVlIjoidzZvSElBalN2SXBFNDg3aGYwSkZVUWtaN05qWTZydFFhNEphaGhtQkFqWHgrcGlod2RQaVhiN1phbWwrRWo0VmlSUkRwS2R6RnI0VnBXR3FlYnkranEvUGFoTFNmQmJFZmtFbmswRkVHRDhVUlhsL2x5K3gvaTB0a2FNSjN4Q0QiLCJtYWMiOiIwNDlmZDQzM2IzY2U0MzdhNTY5OTgxYTkzMDRlYmY4MmUzMGQzYzY3MWVmZTYzMmE4NzcxOWZjOTQwN2UyYWQzIiwidGFnIjoiIn0%3D
+
+URL : .hubspot.com
+Name: __cf_bm
+Cook: EGV3x_ITjNLzv970lUFy9adToKHf5_38mVEPsR8SiFc-1686404373-0-AZr96Zh4HzN4kgGsD4keVhbg2m+ZtEVuH8tFQzBlPkPpR7PektxTtwJd24crxPpfE+aECA0WNrmZp1Nr9Ap0pps=
+
+URL : .hs-sites.com
+Name: __cfruid
+Cook: 28de42e4665256d2f5970ce777c14dfcbff78287-1686404373
+
+URL : .highcharts.com
+Name: _cfuvid
+Cook: 7KTME4UNw6UOB32pCfwyYk0Nwy3ygZlbBaqvh2gq8WA-1686404369382-0-604800000
+
+URL : www.hackthebox.com
+Name: hackthebox_session
+Cook: eyJpdiI6InB4blBVUVlodUNvalFTWHpxMVhPK0E9PSIsInZhbHVlIjoiU2hzWWhuK0F0SzNIdTdVd3l1UFZsVjlydDhyV3NPTDU4cWlpWjlIbUtmcHRKSzJYNnZydmtlUGgwM3JPNkJkbWVJTHZ2TTNlcUVqYWRrNllTVWNaM0ZoeWpHWFpwTnhnb3M2dno5bUlBZkpqQXlPWmlqMlRoNGlTaWlBdStWTmkiLCJtYWMiOiI2OGVhNGMyZjNhZDhlMTYzN2FiZTM1N2NhYWJlMjQzZjUxZWNkMDAyMTZjMTZjMzViNmNkMmM5MmFkOWM1NGE3IiwidGFnIjoiIn0%3D
+
+*** Edge ***
+URL : .bing.com
+Name: SRCHD
+Cook: AF=NOFORM
+
+URL : .bing.com
+Name: SRCHHPGUSR
+Cook: SRCHLANG=da
+
+URL : .bing.com
+Name: SRCHUID
+Cook: V=2&GUID=E9A06ED058AF45799307D35ADA94B504&dmnchg=1
+
+URL : .bing.com
+Name: SRCHUSR
+Cook: DOB=20230610
+
+URL : .bing.com
+Name: _EDGE_S
+Cook: F=1&SID=021E31D7852D6298066122FB8446639B
+
+URL : .bing.com
+Name: _EDGE_V
+Cook: 1
+
+URL : .bing.com
+Name: _SS
+Cook: SID=021E31D7852D6298066122FB8446639B
+
+URL : .login.live.com
+Name: IgnoreCAW
+Cook: 1
+
+URL : www.bing.com
+Name: MUIDB
+Cook: 088BC0BF511F6C051810D39350746D4F
+
+URL : www.office.com
+Name: OH.DCAffinity
+Cook: OH-sec
+
+URL : www.office.com
+Name: OH.FLID
+Cook: f3cdf9d0-ade9-4959-b316-3f446e22d5c3
+
+URL : www.office.com
+Name: OH.SID
+Cook: 7be7c5b9-4ad5-427f-9e3f-dd938dceb5fe
+
+URL : .login.live.com
+Name: OParams
+Cook: 11O.DdEP5m4YYtxi3f!xekQCXCOFQBE!Iafxsn47sWAU7Mm6viYt9TZHr3KnsNwWv8lTydXlAz1IE2nIoq80OFkIDAt!A0E3t!4k1fMY1AgbfNf*Ox7VjV3Zv0FTUFwI2Zyw5g$$
+
+URL : .bing.com
+Name: SUID
+Cook: A
+
+URL : .bing.com
+Name: WLS
+Cook: C=&N=
+
+URL : .msn.com
+Name: _EDGE_S
+Cook: F=1
+
+URL : .msn.com
+Name: _EDGE_V
+Cook: 1
+
+URL : login.live.com
+Name: __Host-MSAAUTH
+Cook: 
+
+URL : login.live.com
+Name: __Host-MSAAUTHP
+Cook: 
+
+URL : ntp.msn.com
+Name: sptmarket
+Cook: da||dk|da-dk|da-dk|da||RefA=19A17E6AB8CC4B39A1C67119BEA6D170.RefC=2023-06-10T13:27:02Z
+
+URL : .c.msn.com
+Name: ANONCHK
+Cook: 0
+
+URL : .c.bing.com
+Name: MR
+Cook: 0
+
+URL : .c.msn.com
+Name: MR
+Cook: 0
+
+URL : .bing.com
+Name: MUID
+Cook: 088BC0BF511F6C051810D39350746D4F
+
+URL : .msn.com
+Name: MUID
+Cook: 088BC0BF511F6C051810D39350746D4F
+
+URL : ntp.msn.com
+Name: MicrosoftApplicationsTelemetryDeviceId
+Cook: be1361ba-f367-4d0a-8223-207924c5f578
+
+URL : .c.msn.com
+Name: SM
+Cook: C
+
+URL : .c.bing.com
+Name: SRM_B
+Cook: 088BC0BF511F6C051810D39350746D4F
+
+URL : .c.bing.com
+Name: SRM_M
+Cook: 088BC0BF511F6C051810D39350746D4F
+
+URL : .c.msn.com
+Name: SRM_M
+Cook: 088BC0BF511F6C051810D39350746D4F
+
+URL : .reddit.com
+Name: USER
+Cook: eyJwcmVmcyI6eyJ0b3BDb250ZW50RGlzbWlzc2FsVGltZSI6MCwiZ2xvYmFsVGhlbWUiOiJSRURESVQiLCJuaWdodG1vZGUiOnRydWUsImNvbGxhcHNlZFRyYXlTZWN0aW9ucyI6eyJmYXZvcml0ZXMiOmZhbHNlLCJtdWx0aXMiOmZhbHNlLCJtb2RlcmF0aW5nIjpmYWxzZSwic3Vic2NyaXB0aW9ucyI6ZmFsc2UsInByb2ZpbGVzIjpmYWxzZX0sInRvcENvbnRlbnRUaW1lc0Rpc21pc3NlZCI6MH19
+
+URL : .bing.com
+Name: USRLOC
+Cook: HS=1
+
+URL : .msn.com
+Name: USRLOC
+Cook: 
+
+URL : .msn.com
+Name: _SS
+Cook: SID=00
+
+URL : ntp.msn.com
+Name: ai_session
+Cook: d2thyOcQRSIzYI5k5Bhb2R|1686404216779|1686404216779
+
+URL : .reddit.com
+Name: csv
+Cook: 2
+
+URL : .reddit.com
+Name: datadome
+Cook: 70Due3wcABE~KkWFAV7fKUPUvYCY_XGP1fjKkDcg0kH5YH8dn1Gzq8cP7zasBYYneGSAHr45QJhuj_g~u6wToJCuK4uQebD7uPiMLFCj2FpoJsz0kh1ryelefKts5R~-
+
+URL : .reddit.com
+Name: edgebucket
+Cook: gHWmBcxjHT2FFf0Gr5
+
+URL : .reddit.com
+Name: loid
+Cook: 000000000d4h06i7fu.2.1686404221000.Z0FBQUFBQmtoSHg5Z2F0TGdkdGVaekhYeWRJcTRkSlBGR2NJekRlWEhRWGo1NjRBNDRnTnI0SXdqTDF6eVd0R2o0Ym9jY2pzX3E5UmdOWWhiMHVOS2REeE1JMjJRUUtTaHk3ZnpaVzlNeGhCWUswbnl6cU44aDh2ZllJd2VYVUNWeTBqckdGUnd4cEg
+
+URL : ntp.msn.com
+Name: msaoptout
+Cook: 0
+
+URL : .reddit.com
+Name: token_v2
+Cook: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJleUpoYkdjaU9pSlNVekkxTmlJc0ltdHBaQ0k2SWxOSVFUSTFOanB6UzNkc01ubHNWMFZ0TWpWbWNYaHdUVTQwY1dZNE1YRTJPV0ZGZFdGeU1ucExNVWRoVkd4amRXTlpJaXdpZEhsd0lqb2lTbGRVSW4wLmV5SnpkV0lpT2lKc2IybGtJaXdpWlhod0lqb3hOamcyTkRrd05qSXhMakl3TmpJNU1pd2lhV0YwSWpveE5qZzJOREEwTWpJeExqSXdOakk1TVN3aWFuUnBJam9pVDB4dE4zaDRRbGxHVTJoWk1WUmxlR3RVVFVaM1pWbGFOVkU1TlcxQklpd2lZMmxrSWpvaU9YUk1iMFl3YzI5d05WSktaMEVpTENKc2FXUWlPaUowTWw5a05HZ3dObWszWm5VaUxDSnNZMkVpT2pFMk9EWTBNRFF5TWpFeU1EVXNJbk5qY0NJNkltVktlR3RyWkVkUE9VTkJTV2hrTFVaaE5WOW5aalZWWDIwME1WWlBhMDVYY0ZGSWMxcE9OUzFaZVhWa1NtNTJWa0V0WkZRMFpsRmZXVWt4VlVsTlFrZENRVVpwVTNSNVlsRlpRV3R0UkU5YVVXZEVUVTVFY0hKcFUxRlJORVZzY1V4SE9FbFJRbTFpYTFFeFdtRk5ZMkZYTTNkblFrdHBZMFUzWlZaSWNHTXliMkZWWW1rMU5HUjJObkI1VEdwNWNFOVZabXd6VG1wdFRGZDRVRGxFVFdKeE1ESndWMDVhVkcxalVqRndXRkZYVEY5dldrODVVek01ZFZWNlgxTmhNRkk0VDB0eGRrZENiM2xOV1RoZlNGcFhUVnBwUjNabWVHNXdjakJhUmpCM2NUY3pURkZYY0dZMmNrYzNPV3RYVkRCRVN6UmZVbmgyZGtSaFZFZFlTbVZ0Y0RkU1gzUXpNVk10YWtGUVkxOU1PVTV4UWtkaGRqZFljbkowVjJKMFh6RlJOVlY2YVdwU1YwcDZORTVDZVRWamRtdGxkbmRVWWs1bGJHWTBNMXByVEV3MFdtTmtUV0ptYlhNMlQyNUtlRFIwUTI0NFpsVmlRVUZFWDE4eE9GTXlSa1VpTENKbWJHOGlPakY5LmxmdGhMc1hjQ3JiU0h4VGRaSU5rYXJ4dGtzX1ZJSklrNmRaUFdGSnNJcndiNWNoVDNPcWRCd1RIWUc5TkxfNEIteVZUcUdBN0VhODM4YTI5SkRrQUVDZnBsTnF2WjF5Q05OZXpneWxVbzN2STZneVc1QzRhX0pkQlNOSEpVQVB6QmEyMnVJQU1xRTFiZ1p1bEpPTUI1VWxUZ21hMVVaQl9vbG1GRUp0WmVVbTNvbzRwWXQzZzAzVmhWYmVFeU1wVmNuc25UNDlIeDJuY0xZcmlEU3FIb1VjRkZmY2dFM3o4RVdYUG1jMVFIZ083ZWlybDNwNXI4cDZydDdLOVBlOHB5LXdWSVY4enBxM19VTGxWcVdmbi1nMFA0cEhXVkM2ZVRnQXhqUktaRHZ2Nzh6UUttQ1ZVZFVQUzQwaGpqbktJWV8yZkY5eWdCRXBVSTNtcllDdTBiZyIsImV4cCI6MTY4NjQ5MDUwMSwibG9nZ2VkSW4iOmZhbHNlLCJzY29wZXMiOlsiKiIsImVtYWlsIiwicGlpIl0sImNpZCI6Ijl0TG9GMHNvcDVSSmdBIn0.vEhAnUq1nJE2mkgZ2V2mdANNXJ0F5YKyu11jQGHj7-8
+
+URL : .scorecardresearch.com
+Name: UID
+Cook: 1056a511df88d8c29542ef21686404244
+
+URL : .msn.com
+Name: OptanonConsent
+Cook: isGpcEnabled=0&datestamp=Sat+Jun+10+2023+15%3A37%3A55+GMT%2B0200+(Centraleurop%C3%A6isk+sommertid)&version=6.25.0&isIABGlobal=false&hosts=&consentId=d0d70e4c-4074-4d5b-a208-fa73574d8305&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0004%3A0%2CSTACK42%3A0&AwaitingReconsent=false
+
+URL : .reddit.com
+Name: eu_cookie
+Cook: {%22opted%22:true%2C%22nonessential%22:false}
+
+URL : .msn.com
+Name: pglt-edgeChromium-ntp
+Cook: 2083
+
+URL : .reddit.com
+Name: session_tracker
+Cook: lrnkpnmmhfmddemlfj.0.1686404286708.Z0FBQUFBQmtoSHktbHU5OWRLbmM5TkgtaGdDclMzMW5TYzdrRjRqRnNZTDRNM3FXNzlYMTd3STlIR0xvcHBVdUdkUTY3NEx3YWNVNC1QNG9VTnFqSGxhcGZjekg0Uzh5NmNsZ0djYWM5MHF1YUZHT1drRUFTUWlIc1kxUUtGemowZDFtM1NMVTBSZ08
+
+URL : www.reddit.com
+Name: session
+Cook: a431c5a67f6537e1384ded37379cfd0d7104bdfegAWVSQAAAAAAAABK8HyEZEdB2SEfK05DfX2UjAdfY3NyZnRflIwoMTcxZDIwYzQyNzg1YTYzMGY4Mzk2NWE2NjZlZGM4ZDFiOTE2ZmM3ZJRzh5Qu
+

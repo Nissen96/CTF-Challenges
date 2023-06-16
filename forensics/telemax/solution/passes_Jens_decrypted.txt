@@ -1,0 +1,16 @@
+*** Chrome ***
+*** Brave ***
+URL : https://vbn.aau.dk/
+Name: jens@myrup.ctf
+Pass: ForskerJensIsBackAndMoreSecureThanEver1337!!!
+
+URL : https://reddit.com/
+Name: jens@myrup.ctf
+Pass: RedditIsWhereIFindMySecretMaliciousHacksForMyResearch
+
+*** Edge ***
+URL : https://dk.ecsc-strategy.ctf/
+Name: JensMyrupECSC
+Pass: bootcamp{h4ck3rs_w1ll_run_4nyth1ng_l0c4lly_f0r_fl4gs}
+
+

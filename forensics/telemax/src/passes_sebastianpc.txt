@@ -1,0 +1,18 @@
+*** Chrome ***
+URL : https://gmail.com/
+Name: sebastianpc1337h4x0r@gmail.com
+Pass: #!!#l337_h4x0r_s3bPC!##!
+
+URL : https://app.hackthebox.com/
+Name: s3bb3rG_1337
+Pass: y0u_d0n7_g37_s0_g00d_w1th0ut_tr41n1ng!$1
+
+*** Edge ***
+URL : https://gmail.com/
+Name: sebastianpc1337h4x0r@gmail.com
+Pass: #!!#l337_h4x0r_s3bPC!##!
+
+URL : https://reddit.com/
+Name: sebastianpc1337h4x0r@gmail.com
+Pass: I_s3cr3tly_l0v3_m1cr0s0ft_3dg3_m0r3_th4n_4nyth1ng!!!
+

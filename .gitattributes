@@ -8,3 +8,7 @@
 *.pcap binary
 *.pcapng binary
 *.npy binary
+*.exe binary
+*.dll binary
+*.one binary
+*.msg binary
